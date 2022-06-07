@@ -64,8 +64,14 @@ footer{
     main{
         width: 100%;
         display: block;
+        margin: 50px auto;
     }
     .box{
-        width: 100%;
+        width: 90%;
+        margin-bottom:20px;
+        position: center;
     }
+    .box:last-child{
+    margin-bottom: 0;
+}
 }
