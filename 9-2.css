@@ -68,11 +68,12 @@ footer{
     }
     .box{
         width: 90%;
+        margin: 0 auto;
         margin-bottom:20px;
-        position: center;
     }
     .box:last-child{
     margin-bottom: 0;
+    margin: 0 auto;
     
 }
 }
